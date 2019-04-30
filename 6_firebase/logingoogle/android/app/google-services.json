@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "65871328309",
+    "firebase_url": "https://autenticar-d72cd.firebaseio.com",
+    "project_id": "autenticar-d72cd",
+    "storage_bucket": "autenticar-d72cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65871328309:android:aba7fdd5c9e2cf1e",
+        "android_client_info": {
+          "package_name": "com.example.logingoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65871328309-lsobnaps90f76m5q28l770e7pi0qai7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADxOMsbh5iD7Irr9wEWNZK7skgiIYFtQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65871328309-lsobnaps90f76m5q28l770e7pi0qai7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
